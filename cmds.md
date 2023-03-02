@@ -269,7 +269,7 @@
 `"list_durability <number>"`.  
 `"ld <number>"`.  
 ***
-`"/date", 2.
+`"/date", 2.`
 ***
 `"/shop <shop_type> <npc_template_id> <shop_id>: enter shop"`.  
 `"shop <word> <number> <number>"`.  
